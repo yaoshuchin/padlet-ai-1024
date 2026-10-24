@@ -1,0 +1,46 @@
+Total feed items: 49
+[1] Title: 直接利用Gemini提問並生成媒材 | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/7ab482935a8e852bca24228a6785cfb8/Snipaste_2026_04_15_10_59_29.png
+[2] Title: AI 備課自動化工作流 | URL: https://sites.google.com/view/prepareautoflow/%E7%B4%85%E7%84%B0-ai%E5%82%99%E8%AA%B2%E5%B7%A5%E4%BD%9C%E6%B5%81
+[3] Title:  | URL: https://opencode.ai/download
+[4] Title: 範例教案 | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/094571458e1d9ef6a1851ec6eb3fcea2/____.docx
+[6] Title: Gemini效果不佳 | URL: https://share.gemini.google/VGfzR9zkQDl8
+[7] Title: 備課資料生成skill | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/df8935d96eef982d28dcd34543dd5999/tw_spark_edu_lesson_pack_generator.zip
+[8] Title: OneTab | URL: https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+[9] Title: 10_國小國語5上課本_第07課_(學) | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/97bd14ec22dd012ab4adec5b91765598/10_____5_____07_____.pdf
+[10] Title: 本地端技能-備課資料生成 | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/6966c939bfd3f65607d1d97a6690c9db/tw_spark_edu_lesson_pack_generator_genoffice_local.zip
+[11] Title:  | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/828e579ba2a62df4f3a448eb7d2540cc/image.png
+[12] Title: 連結的應用程式 | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/f4f6770d124ee28e803a3affd47bb4fb/image.png
+[13] Title: 問問Gemini | URL: https://www.canva.com/design/DAHLmMfNN0M/DX5WxXr8ID_4GMmg6t9kiA/view?utm_content=DAHLmMfNN0M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb34d3dd3f8#4
+[14] Title: Gem的特性 | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/cbf48bdcacfd49feedfce99dd84f3399/Gemini_Generated_Image_sftkzksftkzksftk.png
+[15] Title: Gem工具 | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/59d53fe1518b3e37a0c9e93e9bf47985/image.png
+[16] Title:  | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/23e0773fdab31668b4451b2f1cb9c656/image.png
+[19] Title: 紅焰-跨領域課程設計總監 | URL: https://gemini.google.com/gem/1RpJe2-0QcRTL4aR8AxGPUNBsx1kjXFg2?usp=sharing
+[20] Title: Gemini | URL: https://gemini.google.com/
+[21] Title: 紅焰-教學手繪筆記生成器 | URL: https://gemini.google.com/gem/1XKWH2-fNIzIkcKD_trqcgYsVrrmYQoby?usp=sharing
+[22] Title: 紅焰-文件生成宣傳海報 | URL: https://gemini.google.com/gem/1VciEsHlI1nEAW3nMKKW31KNfn-9w8rn-?usp=sharing
+[23] Title: Gem範例-音樂生成助手 | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/bec83d0808db2b5921330a89184b4560/Gem__.txt
+[24] Title: 建議加入創用CC授權標註 | URL: https://creativecommons.org/chooser/
+[25] Title: 新聞範例 | URL: https://www.cna.com.tw/news/aopl/202608100206.aspx
+[26] Title: Skills指令集 | URL: https://sites.google.com/view/fireskills/skills%E6%8C%87%E4%BB%A4%E9%9B%86
+[28] Title: Gemini連動NBLM | URL: https://canva.link/s8a269w4fd5gvsf
+[29] Title: 動態提示詞庫 | URL: https://moodlela914.github.io/threeprompts/
+[31] Title:  | URL: https://vocus.cc/article/6a217ee0fd89780001c389a9?fbclid=IwY2xjawSO_bJleHRuA2FlbQIxMABicmlkETFRV1FpbDJkU3lXcjkyUzJRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjWRviVYCNPgUPD3KSBxIdTSdPmTtQRx9e9c_a0PLxeudK8xK3Tl7Pq5w9s7_aem_aFrc4Oym_VPynmc-5m4iDQ
+[32] Title: 自動生成並歸檔 | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/6d5fb1ffc805ad12b5f5a0d3a01691fe/image.png
+[33] Title: 國小-以商標的故事為例 | URL: https://notebook.google.com/notebook/b74bae65-62b9-404c-9f52-d476bdcc6e08
+[34] Title: AI Skill 智慧開發工作台 | URL: https://moodlela914.github.io/gemskills/
+[35] Title: 排程 | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/f564d5882665f6a9ebb5d806957a93d3/264900.jpg
+[36] Title: 教案->規準->教學網 | URL: https://share.gemini.google/dsADGlRrCVsX
+[37] Title: 真假訊息大偵探 | URL: https://sites.google.com/view/1021reading/full-page-embed
+[38] Title: 自我介紹 | URL: https://canva.link/2vhhms8gbxpkj73
+[39] Title: Skills生成實作 | URL: https://padlet.com/inforissuescounseling/skills-s024ek1xssacnukjvxy7
+[40] Title: 翰林國中作文批改 | URL: https://chaiwriting-j.hle.com.tw/upload-essay/
+[41] Title: 康軒國語文寫作 | URL: https://aiteach.knsh.com.tw/ch_essay/write/
+[43] Title: Workspace Studio | URL: https://studio.workspace.google.com/
+[44] Title: Typeless | URL: https://www.typeless.com/?via=huang-hongyan
+[45] Title: 測驗表單自動回饋 | URL: https://docs.google.com/forms/d/e/1FAIpQLSeXGEDD15aoSWfUuVnDVUYDAQT18z3Glyc0orc8nErMpiPvmA/viewform
+[46] Title: 複製表單 | URL: https://docs.google.com/forms/d/1irrzLeHEmxHPONAd_Wi_PBS30gAR_5kDn-O276NqpZA/copy
+[47] Title:  | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/c98906377d43614be9786d6f5ceeaca6/image.png
+[48] Title: 10_國小國語5上課本_第07課_(學) | URL: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/3a6698df981f2297db20edaf642de7c7/10_____5_____07_____.pdf
+[49] Title: Workspace Studio | URL: https://studio.workspace.google.com/
+
+Total files from feed: 43

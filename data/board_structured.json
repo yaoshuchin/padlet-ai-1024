@@ -1,0 +1,83 @@
+{
+  "title": "從AI問答走向教學工作流1024",
+  "description": "黃標是資料、紅標有範例、藍標歸工具、綠標要實作",
+  "author": "臺中市資訊教育議題分團輔導員 (moodlela)",
+  "total_sections": 15,
+  "sections": [
+    {
+      "title": "說在前面",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "今日講義",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "相關平台",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "個人化智慧服務",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "問問Gemini",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "實用Gem",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "Gem轉換為技能",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "Gemini-技能組合拳",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "延伸使用-(任務)",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "評分自動工作流",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "額外補充",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "Opencode本地端",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "Gemini連動NB",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "擴充程式",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    },
+    {
+      "title": "作文批改",
+      "color": "rgb(73, 123, 199)",
+      "posts": []
+    }
+  ]
+}

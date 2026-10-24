@@ -1,0 +1,9 @@
+Title: 從AI問答走向教學工作流1024 by 臺中市資訊教育議題分團輔導員
+Description: 黃標是資料、紅標有範例、藍標歸工具、綠標要實作
+Total items: 49
+
+--- Item 1 ---
+Title: 直接利用Gemini提問並生成媒材
+Author: moodlela
+Category: 
+Link: https://padlet.com/inforissuescounseling/s024rz6mqadq3x83gbcw/wish/4113216286

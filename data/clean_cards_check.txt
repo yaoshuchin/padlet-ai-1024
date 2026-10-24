@@ -1,0 +1,211 @@
+
+--- Col 1: 說在前面 (1 cards) ---
+  [資料] Title: 自我介紹
+      Body: 自我介紹...
+      Link: https://canva.link/2vhhms8gbxpkj73
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_277%2Cw_500&url=https%
+
+--- Col 2: 今日講義 (1 cards) ---
+  [資料] Title: AI 備課自動化工作流
+      Body: AI 備課自動化工作流...
+      Link: https://sites.google.com/view/prepareautoflow/%E7%B4%85%E7%84%B0-ai%E5%82%99%E8%
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_241%2Cw_500&url=https%
+
+--- Col 3: 相關平台 (3 cards) ---
+  [工具] Title: Gemini
+      Body: Gemini...
+      Link: https://gemini.google.com/
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.7777777777777777%2Cc_lfill%2Cdpr_1%2C
+  [工具] Title: Workspace Studio
+      Body: Workspace Studio...
+      Link: https://studio.workspace.google.com/
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_173%2Cw_500&url=https%
+  [工具] Title: 動態提示詞庫
+      Body: 動態提示詞庫...
+      Link: https://moodlela914.github.io/threeprompts/
+      Image: https://v1.padlet.pics/3/image.webp?t=ar_2.9565217391304346%2Cc_lfill%2Cdpr_1%2C
+
+--- Col 4: 個人化智慧服務 (1 cards) ---
+  [資料] Title: 連結的應用程式
+      Body: 連結的應用程式...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/f4f6770d124ee28e80
+      Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_185%2Cw_240&url=https%
+
+--- Col 5: 問問Gemini (7 cards) ---
+  [資料] Title: 問問Gemini
+      Body: 問問Gemini...
+      Link: https://www.canva.com/design/DAHLmMfNN0M/DX5WxXr8ID_4GMmg6t9kiA/view?utm_content
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.414285714%2Cc_lfill%2Cdpr_1%2Cg_auto%
+  [資料] Title: (無標題)
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/23e0773fdab31668b4
+      Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_168%2Cw_240&url=https%
+  [範例] Title: 新聞範例
+      Body: 新聞範例...
+      Link: https://www.cna.com.tw/news/aopl/202608100206.aspx
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.501466275659824%2Cc_lfill%2Cdpr_1%2Cg
+  [工具] Title: Skills指令集
+      Body: Skills指令集...
+      Link: https://sites.google.com/view/fireskills/skills%E6%8C%87%E4%BB%A4%E9%9B%86
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_160%2Cw_500&url=https%
+  [範例] Title: 測試連結的應用程式功能
+      Body: 測試連結的應用程式功能...
+  [範例] Title: 比較網頁內容
+      Body: 比較網頁內容...
+      Link: https://24h.pchome.com.tw/prod/DMADFY-A900J3VET
+  [資料] Title: (無標題)
+      Link: https://vocus.cc/article/6a217ee0fd89780001c389a9?fbclid=IwY2xjawSO_bJleHRuA2Flb
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.9077901430842608%2Cc_lfill%2Cdpr_1%2C
+
+--- Col 6: 實用Gem (9 cards) ---
+  [資料] Title: Gem的特性
+      Body: Gem的特性...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/cbf48bdcacfd49feed
+      Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_131%2Cw_240&url=https%
+  [範例] Title: Gem工具
+      Body: Gem工具...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/59d53fe1518b3e37a0
+      Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_188%2Cw_240&url=https%
+  [範例] Title: 如何撰寫自製Gem的提示詞
+      Body: 如何撰寫自製Gem的提示詞...
+  [範例] Title: (無標題)
+      Body: <p>我現在要製作一個 Gem，它的功能是幫我規劃假日親子旅遊。</p><p><br/></p><p>這個工具可以讓我輸入：</p><p>1. 小朋友的年紀</...
+  [工具] Title: 紅焰-跨領域課程設計總監
+      Body: 紅焰-跨領域課程設計總監...
+      Link: https://gemini.google.com/gem/1RpJe2-0QcRTL4aR8AxGPUNBsx1kjXFg2?usp=sharing
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.7777777777777777%2Cc_lfill%2Cdpr_1%2C
+  [工具] Title: 紅焰-教學手繪筆記生成器
+      Body: 紅焰-教學手繪筆記生成器...
+      Link: https://gemini.google.com/gem/1XKWH2-fNIzIkcKD_trqcgYsVrrmYQoby?usp=sharing
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.7777777777777777%2Cc_lfill%2Cdpr_1%2C
+  [工具] Title: 紅焰-文件生成宣傳海報
+      Body: 紅焰-文件生成宣傳海報...
+      Link: https://gemini.google.com/gem/1VciEsHlI1nEAW3nMKKW31KNfn-9w8rn-?usp=sharing
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.7777777777777777%2Cc_lfill%2Cdpr_1%2C
+  [範例] Title: Gem範例-音樂生成助手
+      Body: Gem範例-音樂生成助手...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/bec83d0808db2b5921
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.414285714%2Cc_lfill%2Cdpr_1%2Cg_auto%
+  [資料] Title: 建議加入創用CC授權標註
+      Body: 建議加入創用CC授權標註...
+      Link: https://creativecommons.org/chooser/
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_451%2Cw_500&url=https%
+
+--- Col 7: Gem轉換為技能 (2 cards) ---
+  [資料] Title: AI Skill 智慧開發工作台
+      Body: AI Skill 智慧開發工作台...
+      Link: https://moodlela914.github.io/gemskills/
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.25%2Cc_lfill%2Cdpr_1%2Cg_auto%2Cw_240
+  [實作] Title: Skills生成實作
+      Body: Skills生成實作...
+      Link: https://padlet.com/inforissuescounseling/skills-s024ek1xssacnukjvxy7
+      Image: https://v1.padlet.pics/3/image.webp?t=ar_1.904761905%2Cc_lfill%2Cdpr_1%2Cg_auto%
+
+--- Col 8: Gemini-技能組合拳 (3 cards) ---
+  [範例] Title: 教案->規準->教學網
+      Body: 教案-&gt;規準-&gt;教學網...
+      Link: https://share.gemini.google/dsADGlRrCVsX
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.7777777777777777%2Cc_lfill%2Cdpr_1%2C
+  [範例] Title: 範例教案
+      Body: 範例教案...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/094571458e1d9ef6a1
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.414285714%2Cc_lfill%2Cdpr_1%2Cg_north
+  [範例] Title: 真假訊息大偵探
+      Body: 真假訊息大偵探...
+      Link: https://sites.google.com/view/1021reading/full-page-embed
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_241%2Cw_500&url=https%
+
+--- Col 9: 延伸使用-(任務) (6 cards) ---
+  [範例] Title: Gemini效果不佳
+      Body: Gemini效果不佳...
+      Link: https://share.gemini.google/VGfzR9zkQDl8
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.7777777777777777%2Cc_lfill%2Cdpr_1%2C
+  [資料] Title: 備課資料生成skill
+      Body: 備課資料生成skill...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/df8935d96eef982d28
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Cw_476&url=https%3A%2F%2F
+  [資料] Title: 10_國小國語5上課本_第07課_(學)
+      Body: 10_國小國語5上課本_第07課_(學)...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/97bd14ec22dd012ab4
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.414285714%2Cc_lfill%2Cdpr_1%2Cg_north
+  [資料] Title: (無標題)
+      Body: <p>/tw-spark-edu-lesson-pack-generator 請依據我提供的這份課本 PDF（或單元內容），為本課生成全套備課資源包，並將生成的...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/828e579ba2a62df4f3
+      Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_120%2Cw_240&url=https%
+  [資料] Title: 自動生成並歸檔
+      Body: 自動生成並歸檔...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/6d5fb1ffc805ad12b5
+      Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_154%2Cw_240&url=https%
+  [資料] Title: 排程
+      Body: 排程...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/f564d5882665f6a9eb
+      Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_340%2Cw_240&url=https%
+
+--- Col 10: 評分自動工作流 (4 cards) ---
+  [工具] Title: Workspace Studio
+      Body: Workspace Studio...
+      Link: https://studio.workspace.google.com/
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_173%2Cw_500&url=https%
+  [實作] Title: 測驗表單自動回饋
+      Body: 測驗表單自動回饋...
+      Link: https://docs.google.com/forms/d/e/1FAIpQLSeXGEDD15aoSWfUuVnDVUYDAQT18z3Glyc0orc8
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Cw_476&url=https%3A%2F%2F
+  [範例] Title: 複製表單
+      Body: 複製表單...
+      Link: https://docs.google.com/forms/d/1irrzLeHEmxHPONAd_Wi_PBS30gAR_5kDn-O276NqpZA/cop
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_2%2Cc_lfill%2Cdpr_1%2Cg_auto%2Cw_240&ur
+  [資料] Title: (無標題)
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/c98906377d43614be9
+      Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_135%2Cw_240&url=https%
+
+--- Col 11: 額外補充 (0 cards) ---
+
+--- Col 12: Opencode本地端 (3 cards) ---
+  [工具] Title: (無標題)
+      Link: https://opencode.ai/download
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.7753120665742026%2Cc_lfill%2Cdpr_1%2C
+  [資料] Title: 本地端技能-備課資料生成
+      Body: 本地端技能-備課資料生成...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/6966c939bfd3f65607
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Cw_476&url=https%3A%2F%2F
+  [資料] Title: 10_國小國語5上課本_第07課_(學)
+      Body: 10_國小國語5上課本_第07課_(學)...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/3a6698df981f2297db
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.414285714%2Cc_lfill%2Cdpr_1%2Cg_north
+
+--- Col 13: Gemini連動NB (4 cards) ---
+  [範例] Title: 直接利用Gemini提問並生成媒材
+      Body: 直接利用Gemini提問並生成媒材...
+      Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/7ab482935a8e852bca
+      Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_920%2Cw_1000&url=https
+  [資料] Title: Gemini連動NBLM
+      Body: Gemini連動NBLM...
+      Link: https://canva.link/s8a269w4fd5gvsf
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_275%2Cw_500&url=https%
+  [資料] Title: 國小-以商標的故事為例
+      Body: 國小-以商標的故事為例...
+      Link: https://notebook.google.com/notebook/b74bae65-62b9-404c-9f52-d476bdcc6e08
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_215%2Cw_500&url=https%
+  [資料] Title: 範例指令
+      Body: 範例指令...
+
+--- Col 14: 擴充程式 (2 cards) ---
+  [工具] Title: OneTab
+      Body: OneTab...
+      Link: https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.25%2Cc_lfill%2Cdpr_1%2Cg_auto%2Cw_240
+  [工具] Title: Typeless
+      Body: Typeless...
+      Link: https://www.typeless.com/?via=huang-hongyan
+      Image: https://v1.padlet.pics/1/image.webp?t=ar_1.9047619047619047%2Cc_lfill%2Cdpr_1%2C
+
+--- Col 15: 作文批改 (3 cards) ---
+  [資料] Title: (無標題)
+      Body: <p><strong><mark>作文直接全部雙面列印為PDF檔，方便後續上傳處理</mark></strong></p>...
+  [工具] Title: 翰林國中作文批改
+      Body: 翰林國中作文批改...
+      Link: https://chaiwriting-j.hle.com.tw/upload-essay/
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_132%2Cw_500&url=https%
+  [工具] Title: 康軒國語文寫作
+      Body: 康軒國語文寫作...
+      Link: https://aiteach.knsh.com.tw/ch_essay/write/
+      Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_131%2Cw_500&url=https%

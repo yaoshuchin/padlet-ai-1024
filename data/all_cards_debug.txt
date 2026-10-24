@@ -1,0 +1,61 @@
+
+=================== SECTION 1: 說在前面 (1 cards) ===================
+[1] ID: 4113216350 | Color: red (orange)
+     Title: 自我介紹
+     Body: '自我介紹'
+     Link: https://canva.link/2vhhms8gbxpkj73
+     Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_277%2Cw_500&url=https%...
+
+=================== SECTION 2: 今日講義 (1 cards) ===================
+[1] ID: 4113216288 | Color: red (orange)
+     Title: AI 備課自動化工作流
+     Body: 'AI 備課自動化工作流'
+     Link: https://sites.google.com/view/prepareautoflow/%E7%B4%85%E7%84%B0-ai%E5%82%99%E8%AA%B2%E5%B7%A5%E4%BD%9C%E6%B5%81
+     Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_241%2Cw_500&url=https%...
+
+=================== SECTION 3: 相關平台 (3 cards) ===================
+[1] ID: 4113216315 | Color: blue (blue)
+     Title: Gemini
+     Body: 'Gemini'
+     Link: https://gemini.google.com/
+     Image: https://v1.padlet.pics/1/image.webp?t=ar_1.7777777777777777%2Cc_lfill%2Cdpr_1%2C...
+[2] ID: 4113461067 | Color: blue (blue)
+     Title: Workspace Studio
+     Body: 'Workspace Studio'
+     Link: https://studio.workspace.google.com/
+     Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_173%2Cw_500&url=https%...
+[3] ID: 4113216330 | Color: blue (blue)
+     Title: 動態提示詞庫
+     Body: '動態提示詞庫'
+     Link: https://moodlela914.github.io/threeprompts/
+     Image: https://v1.padlet.pics/3/image.webp?t=ar_2.9565217391304346%2Cc_lfill%2Cdpr_1%2C...
+
+=================== SECTION 4: 個人化智慧服務 (1 cards) ===================
+[1] ID: 4113216305 | Color: red (orange)
+     Title: 連結的應用程式
+     Body: '連結的應用程式'
+     Link: https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/XGyBQbYnlzMgaL6K
+     Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_185%2Cw_240&url=https%...
+
+=================== SECTION 5: 問問Gemini (9 cards) ===================
+[1] ID: 4113216306 | Color: red (orange)
+     Title: 問問Gemini
+     Body: '問問Gemini'
+     Link: https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/R7dXadMwlYGmQ6bl
+     Image: https://v1.padlet.pics/1/image.webp?t=ar_1.414285714%2Cc_lfill%2Cdpr_1%2Cg_auto%...
+[2] ID: 4113216310 | Color: red (orange)
+     Title: 
+     Link: https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/E1P8aXb68VzjZwA9
+     Image: https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_168%2Cw_240&url=https%...
+[3] ID: 4113216324 | Color: red (red)
+     Title: 新聞範例
+     Body: '新聞範例'
+     Link: https://www.cna.com.tw/news/aopl/202608100206.aspx
+     Image: https://v1.padlet.pics/1/image.webp?t=ar_1.501466275659824%2Cc_lfill%2Cdpr_1%2Cg...
+[4] ID: 4113216325 | Color: blue (blue)
+     Title: Skills指令集
+     Body: 'Skills指令集'
+     Link: https://sites.google.com/view/fireskills/skills%E6%8C%87%E4%BB%A4%E9%9B%86
+     Image: https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_160%2Cw_500&url=https%...
+[5] ID: 4113216328 | Color: red (red)
+     Title: 測試連結的應用程式功能

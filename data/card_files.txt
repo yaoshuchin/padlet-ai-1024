@@ -1,0 +1,15 @@
+[個人化智慧服務] '連結的應用程式' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/f4f6770d124ee28e803a3affd47bb4fb/image.png
+[問問Gemini] '' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/23e0773fdab31668b4451b2f1cb9c656/image.png
+[實用Gem] 'Gem的特性' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/cbf48bdcacfd49feedfce99dd84f3399/Gemini_Generated_Image_sftkzksftkzksftk.png
+[實用Gem] 'Gem工具' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/59d53fe1518b3e37a0c9e93e9bf47985/image.png
+[實用Gem] 'Gem範例-音樂生成助手' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/bec83d0808db2b5921330a89184b4560/Gem__.txt
+[Gemini-技能組合拳] '範例教案' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/094571458e1d9ef6a1851ec6eb3fcea2/____.docx
+[延伸使用-(任務)] '備課資料生成skill' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/df8935d96eef982d28dcd34543dd5999/tw_spark_edu_lesson_pack_generator.zip
+[延伸使用-(任務)] '10_國小國語5上課本_第07課_(學)' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/97bd14ec22dd012ab4adec5b91765598/10_____5_____07_____.pdf
+[延伸使用-(任務)] '' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/828e579ba2a62df4f3a448eb7d2540cc/image.png
+[延伸使用-(任務)] '自動生成並歸檔' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/6d5fb1ffc805ad12b5f5a0d3a01691fe/image.png
+[延伸使用-(任務)] '排程' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/f564d5882665f6a9ebb5d806957a93d3/264900.jpg
+[評分自動工作流] '' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/c98906377d43614be9786d6f5ceeaca6/image.png
+[Opencode本地端] '本地端技能-備課資料生成' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/6966c939bfd3f65607d1d97a6690c9db/tw_spark_edu_lesson_pack_generator_genoffice_local.zip
+[Opencode本地端] '10_國小國語5上課本_第07課_(學)' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/3a6698df981f2297db20edaf642de7c7/10_____5_____07_____.pdf
+[Gemini連動NB] '直接利用Gemini提問並生成媒材' -> Link: https://padlet-uploads-usc1.storage.googleapis.com/1736270122/7ab482935a8e852bca24228a6785cfb8/Snipaste_2026_04_15_10_59_29.png

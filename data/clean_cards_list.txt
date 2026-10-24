@@ -1,0 +1,127 @@
+SECTION 1: 說在前面 (1 cards)
+  - [red] ID=4113216350 | Title='自我介紹' | Link='https://canva.link/2vhhms8gbxpkj73' | HasDesc=True
+      Desc: 自我介紹
+
+SECTION 2: 今日講義 (1 cards)
+  - [red] ID=4113216288 | Title='AI 備課自動化工作流' | Link='https://sites.google.com/view/prepareautoflow/%E7%B4%85%E7%84%B0-ai%E5%82%99%E8%AA%B2%E5%B7%A5%E4%BD%9C%E6%B5%81' | HasDesc=True
+      Desc: AI 備課自動化工作流
+
+SECTION 3: 相關平台 (3 cards)
+  - [blue] ID=4113216315 | Title='Gemini' | Link='https://gemini.google.com/' | HasDesc=True
+      Desc: Gemini
+  - [blue] ID=4113461067 | Title='Workspace Studio' | Link='https://studio.workspace.google.com/' | HasDesc=True
+      Desc: Workspace Studio
+  - [blue] ID=4113216330 | Title='動態提示詞庫' | Link='https://moodlela914.github.io/threeprompts/' | HasDesc=True
+      Desc: 動態提示詞庫
+
+SECTION 4: 個人化智慧服務 (1 cards)
+  - [red] ID=4113216305 | Title='連結的應用程式' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/XGyBQbYnlzMgaL6K' | HasDesc=True
+      Desc: 連結的應用程式
+
+SECTION 5: 問問Gemini (9 cards)
+  - [red] ID=4113216306 | Title='問問Gemini' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/R7dXadMwlYGmQ6bl' | HasDesc=True
+      Desc: 問問Gemini
+  - [red] ID=4113216310 | Title='' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/E1P8aXb68VzjZwA9' | HasDesc=False
+  - [red] ID=4113216324 | Title='新聞範例' | Link='https://www.cna.com.tw/news/aopl/202608100206.aspx' | HasDesc=True
+      Desc: 新聞範例
+  - [blue] ID=4113216325 | Title='Skills指令集' | Link='https://sites.google.com/view/fireskills/skills%E6%8C%87%E4%BB%A4%E9%9B%86' | HasDesc=True
+      Desc: Skills指令集
+  - [red] ID=4113216328 | Title='測試連結的應用程式功能' | Link='' | HasDesc=True
+      Desc: <p>👉  Google Map：</p><p>(我要找到最近的泰式料理餐廳前 5 名，幫我把它記錄在 "Google Keep" 上面)<br><br>👉  Google Keep：</p><p>(加入備忘事件: 115.10.25 晚上7點剪頭髮、8點逛夜市)</p>
+  - [red] ID=surface-post-body-c4113216328 | Title='' | Link='' | HasDesc=True
+      Desc: <p>👉  Google Map：</p><p>(我要找到最近的泰式料理餐廳前 5 名，幫我把它記錄在 "Google Keep" 上面)<br/><br/>👉  Google Keep：</p><p>(加入備忘事件: 115.10.25 晚上7點剪頭髮、8點逛夜市)</p>
+  - [red] ID=4113216332 | Title='比較網頁內容' | Link='https://24h.pchome.com.tw/prod/DMADFY-A900J3VET' | HasDesc=True
+  - [red] ID=surface-post-body-c4113216332 | Title='' | Link='https://24h.pchome.com.tw/prod/DMADFY-A900J3VET' | HasDesc=True
+  - [red] ID=4113216334 | Title='' | Link='https://vocus.cc/article/6a217ee0fd89780001c389a9?fbclid=IwY2xjawSO_bJleHRuA2FlbQIxMABicmlkETFRV1FpbDJkU3lXcjkyUzJRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjWRviVYCNPgUPD3KSBxIdTSdPmTtQRx9e9c_a0PLxeudK8xK3Tl7Pq5w9s7_aem_aFrc4Oym_VPynmc-5m4iDQ' | HasDesc=True
+
+SECTION 6: 實用Gem (12 cards)
+  - [red] ID=4113216307 | Title='Gem的特性' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/j40PQD6LBVmeWvXB' | HasDesc=True
+      Desc: Gem的特性
+  - [red] ID=4113216308 | Title='Gem工具' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/lkROZPwxrBNXQjMg' | HasDesc=True
+      Desc: Gem工具
+  - [red] ID=4113216312 | Title='如何撰寫自製Gem的提示詞' | Link='' | HasDesc=True
+  - [red] ID=surface-post-body-c4113216312 | Title='' | Link='' | HasDesc=True
+  - [red] ID=4113216313 | Title='' | Link='' | HasDesc=True
+  - [red] ID=surface-post-body-c4113216313 | Title='' | Link='' | HasDesc=True
+  - [blue] ID=4113216314 | Title='紅焰-跨領域課程設計總監' | Link='https://gemini.google.com/gem/1RpJe2-0QcRTL4aR8AxGPUNBsx1kjXFg2?usp=sharing' | HasDesc=True
+      Desc: 紅焰-跨領域課程設計總監
+  - [blue] ID=4113216317 | Title='紅焰-教學手繪筆記生成器' | Link='https://gemini.google.com/gem/1XKWH2-fNIzIkcKD_trqcgYsVrrmYQoby?usp=sharing' | HasDesc=True
+      Desc: 紅焰-教學手繪筆記生成器
+  - [blue] ID=4113216318 | Title='紅焰-文件生成宣傳海報' | Link='https://gemini.google.com/gem/1VciEsHlI1nEAW3nMKKW31KNfn-9w8rn-?usp=sharing' | HasDesc=True
+      Desc: 紅焰-文件生成宣傳海報
+  - [red] ID=4113216320 | Title='Gem範例-音樂生成助手' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/x5A7arDBl8j4Zwr6' | HasDesc=True
+      Desc: Gem範例-音樂生成助手
+  - [red] ID=4113216321 | Title='建議加入創用CC授權標註' | Link='https://creativecommons.org/chooser/' | HasDesc=True
+  - [red] ID=surface-post-body-c4113216321 | Title='' | Link='https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant' | HasDesc=True
+
+SECTION 7: Gem轉換為技能 (2 cards)
+  - [red] ID=4113216346 | Title='AI Skill 智慧開發工作台' | Link='https://moodlela914.github.io/gemskills/' | HasDesc=True
+      Desc: AI Skill 智慧開發工作台
+  - [green] ID=4113216351 | Title='Skills生成實作' | Link='https://padlet.com/inforissuescounseling/skills-s024ek1xssacnukjvxy7' | HasDesc=True
+      Desc: Skills生成實作
+
+SECTION 8: Gemini-技能組合拳 (4 cards)
+  - [red] ID=4113216348 | Title='教案->規準->教學網' | Link='https://share.gemini.google/dsADGlRrCVsX' | HasDesc=True
+  - [red] ID=surface-post-body-c4113216348 | Title='' | Link='https://share.gemini.google/dsADGlRrCVsX' | HasDesc=True
+  - [red] ID=4113216291 | Title='範例教案' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/wKmOZ52YJVweWzMA' | HasDesc=True
+      Desc: 範例教案
+  - [red] ID=4113216349 | Title='真假訊息大偵探' | Link='https://sites.google.com/view/1021reading/full-page-embed' | HasDesc=True
+      Desc: 真假訊息大偵探
+
+SECTION 9: 延伸使用-(任務) (7 cards)
+  - [red] ID=4113216294 | Title='Gemini效果不佳' | Link='https://share.gemini.google/VGfzR9zkQDl8' | HasDesc=True
+      Desc: Gemini效果不佳
+  - [red] ID=4113216298 | Title='備課資料生成skill' | Link='https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/1736270122/df8935d96eef982d28dcd34543dd5999/tw_spark_edu_lesson_pack_generator.zip?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKioz6vXlMH0m2WtW0ZHR7UplXt3O_jd56wYVlxtfzjcl-Z_n0gtxfOkHPywzYyVkLbHPX13avBDe24kZ2Q1s5k8YA6lPzJ1fy1C5eFxTrQNPL6-Si-fKv0-Jsq0TJ-qvARk3gdDpAO2IwwhKKDSJCqEYXZhOm0FQb4YyvV-SOETN8U&download=1' | HasDesc=True
+      Desc: 備課資料生成skill
+  - [red] ID=4113216302 | Title='10_國小國語5上課本_第07課_(學)' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/goElQyAxn8zDQ3yY' | HasDesc=True
+      Desc: 10_國小國語5上課本_第07課_(學)
+  - [red] ID=4113216304 | Title='' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/Ae2Rav0grBb4Znz4' | HasDesc=True
+  - [red] ID=surface-post-body-c4113216304 | Title='' | Link='' | HasDesc=True
+  - [red] ID=4113216344 | Title='自動生成並歸檔' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/LNV1Q7rMEmpDamq3' | HasDesc=True
+      Desc: 自動生成並歸檔
+  - [red] ID=4113216347 | Title='排程' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/wKmOZ52YJVpXWzMA' | HasDesc=True
+      Desc: 排程
+
+SECTION 10: 評分自動工作流 (4 cards)
+  - [blue] ID=4113216356 | Title='Workspace Studio' | Link='https://studio.workspace.google.com/' | HasDesc=True
+      Desc: Workspace Studio
+  - [green] ID=4113216358 | Title='測驗表單自動回饋' | Link='https://docs.google.com/forms/d/e/1FAIpQLSeXGEDD15aoSWfUuVnDVUYDAQT18z3Glyc0orc8nErMpiPvmA/viewform' | HasDesc=True
+      Desc: 測驗表單自動回饋
+  - [red] ID=4113216359 | Title='複製表單' | Link='https://docs.google.com/forms/d/1irrzLeHEmxHPONAd_Wi_PBS30gAR_5kDn-O276NqpZA/copy' | HasDesc=True
+      Desc: 複製表單
+  - [red] ID=4113216360 | Title='' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/jpoxajzoGwgPabPE' | HasDesc=False
+
+SECTION 11: 額外補充 (0 cards)
+
+SECTION 12: Opencode本地端 (3 cards)
+  - [blue] ID=4113216290 | Title='' | Link='https://opencode.ai/download' | HasDesc=True
+  - [red] ID=4113216303 | Title='本地端技能-備課資料生成' | Link='https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/1736270122/6966c939bfd3f65607d1d97a6690c9db/tw_spark_edu_lesson_pack_generator_genoffice_local.zip?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKioz6vXlMH0m2WtW0ZHR7UplURWWGbZBRAANEh-GuEBQkLAIVPp2V49wKl4eiDPIeiWGhN8HRcRaqYvgVt7CRzqRmr92GgR4G0v_HhIiiGEJCz8lFFQTED0UetMUYBbjYvb4O--15B1ScQ-hPfY81hWzanA8Q_VdFxw1hMTEBRI4CnGI0X4GDYrblyBoqIREx9zw==&download=1' | HasDesc=True
+      Desc: 本地端技能-備課資料生成
+  - [red] ID=4113216361 | Title='10_國小國語5上課本_第07課_(學)' | Link='https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw/wish/4b3zaM2gBnLwQ2j7' | HasDesc=True
+      Desc: 10_國小國語5上課本_第07課_(學)
+
+SECTION 13: Gemini連動NB (5 cards)
+  - [red] ID=4113216286 | Title='直接利用Gemini提問並生成媒材' | Link='https://padlet-uploads-usc1.storage.googleapis.com/1736270122/7ab482935a8e852bca24228a6785cfb8/Snipaste_2026_04_15_10_59_29.png' | HasDesc=True
+      Desc: 直接利用Gemini提問並生成媒材
+  - [red] ID=4113216329 | Title='Gemini連動NBLM' | Link='https://canva.link/s8a269w4fd5gvsf' | HasDesc=True
+      Desc: Gemini連動NBLM
+  - [red] ID=4113216345 | Title='國小-以商標的故事為例' | Link='https://notebook.google.com/notebook/b74bae65-62b9-404c-9f52-d476bdcc6e08' | HasDesc=True
+      Desc: 國小-以商標的故事為例
+  - [red] ID=4113216355 | Title='範例指令' | Link='' | HasDesc=True
+  - [red] ID=surface-post-body-c4113216355 | Title='' | Link='' | HasDesc=True
+
+SECTION 14: 擴充程式 (2 cards)
+  - [blue] ID=4113216300 | Title='OneTab' | Link='https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall' | HasDesc=True
+      Desc: OneTab
+  - [blue] ID=4113216357 | Title='Typeless' | Link='https://www.typeless.com/?via=huang-hongyan' | HasDesc=True
+      Desc: Typeless
+
+SECTION 15: 作文批改 (4 cards)
+  - [red] ID=4113216292 | Title='' | Link='' | HasDesc=True
+      Desc: <p><strong><mark>作文直接全部雙面列印為PDF檔，方便後續上傳處理</mark></strong></p>
+  - [red] ID=surface-post-body-c4113216292 | Title='' | Link='' | HasDesc=True
+      Desc: <p><strong><mark>作文直接全部雙面列印為PDF檔，方便後續上傳處理</mark></strong></p>
+  - [blue] ID=4113216352 | Title='翰林國中作文批改' | Link='https://chaiwriting-j.hle.com.tw/upload-essay/' | HasDesc=True
+      Desc: 翰林國中作文批改
+  - [blue] ID=4113216353 | Title='康軒國語文寫作' | Link='https://aiteach.knsh.com.tw/ch_essay/write/' | HasDesc=True
+      Desc: 康軒國語文寫作

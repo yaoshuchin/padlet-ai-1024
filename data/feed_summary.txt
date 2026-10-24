@@ -1,0 +1,153 @@
+Title: 從AI問答走向教學工作流1024 by 臺中市資訊教育議題分團輔導員
+Description: 黃標是資料、紅標有範例、藍標歸工具、綠標要實作
+Total items: 49
+
+[1] Title: 直接利用Gemini提問並生成媒材
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/7ab482935a8e852bca24228a6785cfb8/Snipaste_2026_04_15_10_59_29.png']
+
+[2] Title: AI 備課自動化工作流
+     Attachments: ['https://sites.google.com/view/prepareautoflow/%E7%B4%85%E7%84%B0-ai%E5%82%99%E8%AA%B2%E5%B7%A5%E4%BD%9C%E6%B5%81']
+
+[3] Title: 
+     Attachments: ['https://opencode.ai/download']
+
+[4] Title: 範例教案
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/094571458e1d9ef6a1851ec6eb3fcea2/____.docx']
+
+[5] Title: 
+     Desc: <p><strong><mark>作文直接全部雙面列印為PDF檔，方便後續上傳處理</mark></strong></p>
+
+[6] Title: Gemini效果不佳
+     Attachments: ['https://share.gemini.google/VGfzR9zkQDl8']
+
+[7] Title: 備課資料生成skill
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/df8935d96eef982d28dcd34543dd5999/tw_spark_edu_lesson_pack_generator.zip']
+
+[8] Title: OneTab
+     Attachments: ['https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall']
+
+[9] Title: 10_國小國語5上課本_第07課_(學)
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/97bd14ec22dd012ab4adec5b91765598/10_____5_____07_____.pdf']
+
+[10] Title: 本地端技能-備課資料生成
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/6966c939bfd3f65607d1d97a6690c9db/tw_spark_edu_lesson_pack_generator_genoffice_local.zip']
+
+[11] Title: 
+     Desc: <p>/tw-spark-edu-lesson-pack-generator 請依據我提供的這份課本 PDF（或單元內容），為本課生成全套備課資源包，並將生成的 Google 文件、Google 簡報、結構圖圖片與 Kahoot 試算表，自動建立並存入 Google Drive『備課資料夾』中的專屬單元資料夾內。</p>
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/828e579ba2a62df4f3a448eb7d2540cc/image.png']
+
+[12] Title: 連結的應用程式
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/f4f6770d124ee28e803a3affd47bb4fb/image.png']
+
+[13] Title: 問問Gemini
+     Attachments: ['https://www.canva.com/design/DAHLmMfNN0M/DX5WxXr8ID_4GMmg6t9kiA/view?utm_content=DAHLmMfNN0M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb34d3dd3f8#4']
+
+[14] Title: Gem的特性
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/cbf48bdcacfd49feedfce99dd84f3399/Gemini_Generated_Image_sftkzksftkzksftk.png']
+
+[15] Title: Gem工具
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/59d53fe1518b3e37a0c9e93e9bf47985/image.png']
+
+[16] Title: 
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/23e0773fdab31668b4451b2f1cb9c656/image.png']
+
+[17] Title: 如何撰寫自製Gem的提示詞
+     Desc: <p>提示詞:<br>我要製作一個 [<mark>協助台灣K12教師與家長溝通</mark>] 的Gemini Gem，我不知道使用說明怎麼寫比較好，請你提供我自訂Gem的【<mark>名稱</mark>】、【<mark>說明</mark>】【<mark>使用說明</mark>】提示詞的寫法，我希望[這個gem每次都可以先進行使用者輪廓訪談，清楚使用者的基本資料之後再提供服務]。</p>
+
+[18] Title: 
+     Desc: <p>我現在要製作一個 Gem，它的功能是幫我規劃假日親子旅遊。</p><p><br></p><p>這個工具可以讓我輸入：</p><p>1. 小朋友的年紀</p><p>2. 出發的地點</p><p>3. 想要去的目的地</p><p><br></p><p>它就能夠幫我收集相關資料，並建議詳細的行程內容。</p><p>請給我製作這個 Gem 的完整提示詞。</p>
+
+[19] Title: 紅焰-跨領域課程設計總監
+     Attachments: ['https://gemini.google.com/gem/1RpJe2-0QcRTL4aR8AxGPUNBsx1kjXFg2?usp=sharing']
+
+[20] Title: Gemini
+     Attachments: ['https://gemini.google.com/']
+
+[21] Title: 紅焰-教學手繪筆記生成器
+     Attachments: ['https://gemini.google.com/gem/1XKWH2-fNIzIkcKD_trqcgYsVrrmYQoby?usp=sharing']
+
+[22] Title: 紅焰-文件生成宣傳海報
+     Attachments: ['https://gemini.google.com/gem/1VciEsHlI1nEAW3nMKKW31KNfn-9w8rn-?usp=sharing']
+
+[23] Title: Gem範例-音樂生成助手
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/bec83d0808db2b5921330a89184b4560/Gem__.txt']
+
+[24] Title: 建議加入創用CC授權標註
+     Desc: <p>「本作品採用 <a rel="noopener" class="H23r4e" href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant"><strong>創用 CC 姓名標示-非商業性 4.0 國際授權條款</strong></a> 釋出。二創請註明原作者為 [紅焰教學]。」</p><p><br></p><p>或</p><p><br></p><p>本作品採用 CC BY-ND 4.0 授權協議進行授權。如需查看該授權協議的副本，請造訪 <a rel="noopener noreferrer nofollow" href="https://creativecommons.org/licenses/by-nd/4.0/">https://creativecommons.org/licenses/by-nd/4.0/</a></p>
+     Attachments: ['https://creativecommons.org/chooser/']
+
+[25] Title: 新聞範例
+     Attachments: ['https://www.cna.com.tw/news/aopl/202608100206.aspx']
+
+[26] Title: Skills指令集
+     Attachments: ['https://sites.google.com/view/fireskills/skills%E6%8C%87%E4%BB%A4%E9%9B%86']
+
+[27] Title: 測試連結的應用程式功能
+     Desc: <p>👉  Google Map：</p><p>(我要找到最近的泰式料理餐廳前 5 名，幫我把它記錄在 "Google Keep" 上面)<br><br>👉  Google Keep：</p><p>(加入備忘事件: 115.10.25 晚上7點剪頭髮、8點逛夜市)</p>
+
+[28] Title: Gemini連動NBLM
+     Attachments: ['https://canva.link/s8a269w4fd5gvsf']
+
+[29] Title: 動態提示詞庫
+     Attachments: ['https://moodlela914.github.io/threeprompts/']
+
+[30] Title: 比較網頁內容
+     Desc: <p>PChome：</p><p><a rel="noopener noreferrer nofollow" href="https://24h.pchome.com.tw/prod/DMADFY-A900J3VET">https://24h.pchome.com.tw/prod/DMADFY-A900J3VET</a><br>MOMO：</p><p><a rel="noopener noreferrer nofollow" href="https://www.momoshop.com.tw/product/12982049">https://www.momoshop.com.tw/product/12982049</a><br>Etmall：</p><p><a rel="noopener noreferrer nofollow" href="https://www.etmall.com.tw/i/7944759?Store=7&amp;Cate=164872">https://www.etmall.com.tw/i/7944759?Store=7&amp;Cate=164872</a></p>
+
+[31] Title: 
+     Attachments: ['https://vocus.cc/article/6a217ee0fd89780001c389a9?fbclid=IwY2xjawSO_bJleHRuA2FlbQIxMABicmlkETFRV1FpbDJkU3lXcjkyUzJRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjWRviVYCNPgUPD3KSBxIdTSdPmTtQRx9e9c_a0PLxeudK8xK3Tl7Pq5w9s7_aem_aFrc4Oym_VPynmc-5m4iDQ']
+
+[32] Title: 自動生成並歸檔
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/6d5fb1ffc805ad12b5f5a0d3a01691fe/image.png']
+
+[33] Title: 國小-以商標的故事為例
+     Attachments: ['https://notebook.google.com/notebook/b74bae65-62b9-404c-9f52-d476bdcc6e08']
+
+[34] Title: AI Skill 智慧開發工作台
+     Attachments: ['https://moodlela914.github.io/gemskills/']
+
+[35] Title: 排程
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/f564d5882665f6a9ebb5d806957a93d3/264900.jpg']
+
+[36] Title: 教案->規準->教學網
+     Desc: <p>利用 <strong>@tw-spark-edu-lesson-plan</strong> 幫我設計"媒體識讀"一節課的課程教案 針對國小四年級並根據生成的課程教案 使用 <strong>@tw-spark-edu-rubric-designer</strong> 建立四級 Rubrics 評量表 並將這些內容利用 <strong>@interactive-website-generator</strong> 幫我製作成教學網站 我要蒙德里安風格 請將三份資料分別生成給我</p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://share.gemini.google/dsADGlRrCVsX">https://share.gemini.google/dsADGlRrCVsX</a></p>
+     Attachments: ['https://share.gemini.google/dsADGlRrCVsX']
+
+[37] Title: 真假訊息大偵探
+     Attachments: ['https://sites.google.com/view/1021reading/full-page-embed']
+
+[38] Title: 自我介紹
+     Attachments: ['https://canva.link/2vhhms8gbxpkj73']
+
+[39] Title: Skills生成實作
+     Attachments: ['https://padlet.com/inforissuescounseling/skills-s024ek1xssacnukjvxy7']
+
+[40] Title: 翰林國中作文批改
+     Attachments: ['https://chaiwriting-j.hle.com.tw/upload-essay/']
+
+[41] Title: 康軒國語文寫作
+     Attachments: ['https://aiteach.knsh.com.tw/ch_essay/write/']
+
+[42] Title: 範例指令
+     Desc: <ol><li><p><strong>課綱提取</strong>：依據108課綱，完整整理國小國語文各學習階段的學習表現指標，保留原始編碼與內容。</p></li><li><p><strong>教案設計</strong>：整合教案格式、課文、參考資料及課綱指標，設計一節40分鐘的國小國語文教案，聚焦「商標意義與意象分析」，詳列教學流程、時間分配與師生互動。</p></li><li><p><strong>學習單製作</strong>：結合課文、參考資料、教案及商標介紹影片，設計引導式填充學習單，協助學生閱讀理解、辨識商標元素並分析意象。</p></li><li><p><strong>素養評量</strong>：提取素養導向評量格式與命題原則，依據教學目標設計10題符合國小程度的形成性評量，兼顧理解、應用與分析。</p></li><li><p><strong>題型與格式</strong>：全部採四選一選擇題，以表格呈現「題目、選項A、B、C、D、正確答案」六欄。題幹限20字、各選項限8字，正確答案均衡隨機分布於A至D，確保答案唯一且無歧義。</p></li></ol>
+
+[43] Title: Workspace Studio
+     Attachments: ['https://studio.workspace.google.com/']
+
+[44] Title: Typeless
+     Attachments: ['https://www.typeless.com/?via=huang-hongyan']
+
+[45] Title: 測驗表單自動回饋
+     Attachments: ['https://docs.google.com/forms/d/e/1FAIpQLSeXGEDD15aoSWfUuVnDVUYDAQT18z3Glyc0orc8nErMpiPvmA/viewform']
+
+[46] Title: 複製表單
+     Attachments: ['https://docs.google.com/forms/d/1irrzLeHEmxHPONAd_Wi_PBS30gAR_5kDn-O276NqpZA/copy']
+
+[47] Title: 
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/c98906377d43614be9786d6f5ceeaca6/image.png']
+
+[48] Title: 10_國小國語5上課本_第07課_(學)
+     Attachments: ['https://padlet-uploads-usc1.storage.googleapis.com/1736270122/3a6698df981f2297db20edaf642de7c7/10_____5_____07_____.pdf']
+
+[49] Title: Workspace Studio
+     Attachments: ['https://studio.workspace.google.com/']
