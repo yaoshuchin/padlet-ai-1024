@@ -2,7 +2,8 @@
 
 > 原始來源：[Padlet 看板](https://padlet.com/inforissuescounseling/ai-1024-s024rz6mqadq3x83gbcw)  
 > 作者：臺中市資訊教育議題分團輔導員 (moodlela)  
-> 分類規則：**黃標是資料 (21)、紅標有範例 (13)、藍標歸工具 (13)、綠標要實作 (2)**
+> 分類規則：**黃標是資料 (21)、紅標有範例 (13)、藍標歸工具 (13)、綠標要實作 (2)**  
+> 🌐 **線上體驗網址 (GitHub Pages)**：[https://yaoshuchin.github.io/padlet-ai-1024/](https://yaoshuchin.github.io/padlet-ai-1024/)
 
 ---
 
